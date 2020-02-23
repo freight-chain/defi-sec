@@ -1,5 +1,10 @@
 # DeFi Threat Matrix
 
+This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security checklisting, this is ment to be specalized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
+
+## Contributing
+Please fork this repo and update the "csv" file only (for now). We will update the table and [google sheet](https://docs.google.com/spreadsheets/d/1St4BXWpeZdcDaH5Z4nnODrerFAxfdZ4OuHofI-EbKGc/edit?usp=sharing) ourselves. 
+
 ## Roadmap
 Organize attacks into primary categories
 Organize attacks into folders with sub-folders for each attack
