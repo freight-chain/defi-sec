@@ -21,6 +21,15 @@ JSON
 ## Tags 
 Should tags for "potential" attacks or attacks that have been successful be utilized, and if so how implemented
 
+## Repo Structure
+- csv 
+	.csv file containing the primary attack/potential attack planes
+- documents
+	.md files containing various proposed "best practices", for example [incident response plan](#) is an example of how teams should best communicate with their userbase and is based off of existing regulatory requirements
+- LICENSE 
+	MIT License
+- README.md 
+	The file you are reading right meow.
 
 ---
 
@@ -57,3 +66,6 @@ Should tags for "potential" attacks or attacks that have been successful be util
 | Governance Cartel                |                                  |                            |                        |                                                         |
 | "Flash ""Straddle"" "            |                                  |                            |                        |                                                         |
 | Structuring                      |                                  |                            |                        |                                                         |
+
+---
+MIT License - Any rights or Trademarks are property of their respective owners. We Make No Claims on them whatsoever.
