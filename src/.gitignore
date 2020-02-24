@@ -1,0 +1,6 @@
+.solhint.json
+.solium*
+*~
+.DS_Store
+node_modules/
+.vscode/
