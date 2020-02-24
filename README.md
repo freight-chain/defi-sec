@@ -2,8 +2,14 @@
 
 This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security checklisting, this is ment to be specalized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
 
+# Telegram Channels for Discussion
+[DeFi](https://t.me/de_fi)
+[DeFi Dev](https://t.me/dfdev)
+[DeFi Score](https://t.me/defiscore)
+[Flashfck](https://t.me/flashfck)
+
 ## Contributing
-Please fork this repo and update the "csv" file only (for now). We will update the table and [google sheet](https://docs.google.com/spreadsheets/d/1St4BXWpeZdcDaH5Z4nnODrerFAxfdZ4OuHofI-EbKGc/edit?usp=sharing) ourselves. 
+We are adopting EIP-1470 and working off a fork of SWC-Registry
 
 ## Roadmap
 Organize attacks into primary categories
@@ -12,11 +18,6 @@ Organize mitigation strat. and "best practices"
 Provide a list of tools, articles, and resources (i.e. an "awesome-list")
 Encourage community driven feedback
 
-## Files
-Which format should files be in?
-Markdown
-CSV
-JSON
 
 ## Tags 
 Should tags for "potential" attacks or attacks that have been successful be utilized, and if so how implemented
@@ -30,6 +31,9 @@ Should tags for "potential" attacks or attacks that have been successful be util
 	MIT License
 - README.md 
 	The file you are reading right meow.
+- src
+	- entries
+		.md files containing specific entries from the table below
 
 ---
 
