@@ -8,9 +8,10 @@ The goals of this project are as follows:
 - Define a common language for describing security issues in smart contract systems' architecture, design, or code.
 - Serve as a way to train and increase performance for smart contract security analysis tools.
 
-## Create a new SWC entry
+## Create a new entry
 
-Create a file with a new DeFiTR ID in the [entries](./entries) directory. Use the [template](./entries/template.md) and describe all weakness attributes. 
+Create a file with a new DeFiTR ID in the [entries](./entries) directory. Use the [template](./entries/template.md) and describe all weakness attributes. These should be just numbered in the following format:
+`xyy.md` where as `x` is the category identifier and `yy` is the entry identifier. 
 
 ```
 # Title 
