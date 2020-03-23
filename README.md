@@ -1,22 +1,13 @@
 # DeFi Threat Matrix
 
-This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security checklisting, this is ment to be specalized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
+This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security check-listing, this is ment to be specialized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
 
 # Telegram Channels for Discussion
-[DeFi](https://t.me/de_fi)
-[DeFi Dev](https://t.me/dfdev)
-[DeFi Score](https://t.me/defiscore)
-[Flashfck](https://t.me/flashfck)
+[DeFi](https://t.me/de_fi)<br>
+[DeFi Dev](https://t.me/dfdev)<br>
+[DeFi Score](https://t.me/defiscore)<br>
+[Flashfck](https://t.me/flashfck)<br>
 
-## Contributing
-We are adopting EIP-1470 and working off a fork of SWC-Registry
-
-## Roadmap
-Organize attacks into primary categories
-Organize attacks into folders with sub-folders for each attack
-Organize mitigation strat. and "best practices"
-Provide a list of tools, articles, and resources (i.e. an "awesome-list")
-Encourage community driven feedback
 
 
 ## Tags 
@@ -46,10 +37,10 @@ Should tags for "potential" attacks or attacks that have been successful be util
 | Liquidity Pocket                 | Token Inflation                  | Spoofing                   | Timelock               | DoS with Block Gas Limit                                |
 | Quote Stuffing                   | Circulating Supply Attack        | Credential Access          | Lateral Movements      | Arithmetic Over/Under Flows                             |
 | Wash Trading                     | Gas Griefing \(DoS\)             | Reentrancy                 | Multi\-Sig Keys        | Forcibly Sending Ether to a Contract                    |
-| Ramping The Market               | Network Congestion \(uDoS\)      | Privilage Esclation        | Miner Cartel           | Delegatecall                                            |
+| Ramping The Market               | Network Congestion \(uDoS\)      | Privilege Escalation        | Miner Cartel           | Delegatecall                                            |
 | Cornering The Market             |                                  | Credential Access          | Finality               | Entropy Illusion                                        |
 | Churning                         |                                  | Encryption Protections     |                        | Short Address/Parameter Attack                          |
-| Flash Loans                      |                                  | Phishing                   |                        | Uninitialised Storage Pointers                          |
+| Flash Loans                      |                                  | Phishing                   |                        | Uninitialized Storage Pointers                          |
 | Aggregated Transactions          |                                  | Unicode Exploits           |                        | Floating Points and Numerical Precision                 |
 | Bulge Bracket Transactions       |                                  | API                        |                        | Right\-To\-Left\-Override control character \(U\+202E\) |
 | Layering                         |                                  | DNS Attacks                |                        | Delegatecall to Untrusted Callee                        |
