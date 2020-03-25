@@ -2,7 +2,7 @@
 
 This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security check-listing, this is ment to be specialized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
 
-# Telegram Channels for Discussion
+## Telegram Channels for Discussion
 [DeFi](https://t.me/de_fi)<br>
 [DeFi Dev](https://t.me/dfdev)<br>
 [DeFi Score](https://t.me/defiscore)<br>
@@ -10,10 +10,10 @@ This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please us
 
 
 
-## Tags 
+##### Tags 
 Should tags for "potential" attacks or attacks that have been successful be utilized, and if so how implemented
 
-## Repo Structure
+### Repo Structure
 - csv 
 	.csv file containing the primary attack/potential attack planes
 - documents
@@ -24,9 +24,9 @@ Should tags for "potential" attacks or attacks that have been successful be util
 	The file you are reading right meow.
 - src
 	- entries
+		README - Index of Entries 
 		.md files containing specific entries from the table below
 
----
 
 
 | **Protocol / Interaction Based** | **Blockchain Transaction Based** | **Non-Blockchain Sources** | **Blockchain Sources** | **Contract Language**                                   |
