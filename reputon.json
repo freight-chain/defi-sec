@@ -1,0 +1,30 @@
+     {
+       "contract": "EIP-1191 address",
+       "reputons": [
+         {
+           "getController": "_getController",
+           "isApprovedForAll": "_isApprovedForAll",
+           "rater": "rep.example.net",
+           "identity": "contractOwner, _affirmOwner",
+           "tokenURI": "",
+           "affirmOwner": true,
+           "value": [
+             "{tokenOfOwnerByIndex}*{tokenByIndex}"
+           ],
+           "sample-size": "$tokenOfOwnerByIndex",
+           "updated": "_eth_blockNumber",
+           "sha3": "web3_sha3"
+         },
+         {
+           "balanceOf": "_balanceOf",
+           "assertion": "active",
+"meta": [
+        "trust_wallet",
+        "mycrypto",
+        "defiscore",
+        "defipulse",
+],
+           }
+
+     ]
+}
