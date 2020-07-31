@@ -13,6 +13,10 @@ The goals of this project are as follows:
 Create a file with a new DeFiTR ID in the [entries](./entries) directory. Use the [template](./entries/template.md) and describe all weakness attributes. These should be just numbered in the following format:
 `xyy.md` where as `x` is the category identifier and `yy` is the entry identifier. 
 
+```
+# Title 
+Pick a meaningful title.
+
 ## Relationships
 Link a CWE Base or Class type to the CWS variant. 
 e.g.  [CWE-682: Incorrect Calculation](https://cwe.mitre.org/data/definitions/682.html)
