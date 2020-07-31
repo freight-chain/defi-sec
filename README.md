@@ -1,27 +1,49 @@
 # DeFi Threat Matrix
 
-This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security check-listing, this is ment to be specialized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
+The DeFi Threat Registry (DeFiTR) is a fork of SWC-Registry and is an implementation of the weakness classification scheme proposed in [EIP-1470](https://github.com/ethereum/EIPs/issues/1469). It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration ([CWE](https://cwe.mitre.org)) while overlaying a wide range of weakness variants that are specific to smart contracts and [ATTACK](https://attack.mitre.org) which are 
 
-## Sheet
+The goals of this project are as follows:
 
-[DeFi Sec Matrix Sheet](https://docs.google.com/spreadsheets/d/1St4BXWpeZdcDaH5Z4nnODrerFAxfdZ4OuHofI-EbKGc/edit?usp=sharing)
+- Provide a straightforward way to classify security issues in smart contract systems.
+- Define a common language for describing security issues in smart contract systems' architecture, design, or code.
+- Serve as a way to train and increase performance for smart contract security analysis tools.
 
-[DeFi Sec Page](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5UnBx4M9sg43fO76eWetena1L-4zo82lqsJuMR3uuZPe7luRnakG8jZPG0YbnSDtUOY5nVgSdwpc1/pubhtml)
+## Create a new entry
 
-- Updates to the Sheet can be found in in the 'legend' section
+Create a file with a new DeFiTR ID in the [entries](./entries) directory. Use the [template](./entries/template.md) and describe all weakness attributes. These should be just numbered in the following format:
+`xyy.md` where as `x` is the category identifier and `yy` is the entry identifier. 
 
-## Token Mitigations 
+```
+# Title 
+Pick a meaningful title.
 
-[uniswap schema](https://uniswap.org/tokenlist.schema.json)
+## Relationships
+Link a CWE Base or Class type to the CWS variant. 
+e.g.  [CWE-682: Incorrect Calculation](https://cwe.mitre.org/data/definitions/682.html)
 
-## Telegram Channels for Discussion
-[DeFi](https://t.me/de_fi)<br>
-[DeFi Score](https://t.me/defiscore)<br>
+## Description 
+Describe the nature and potential impact of the weakness on the contract system. 
 
-##### Tags 
-Should tags for "potential" attacks or attacks that have been successful be utilized, and if so how implemented
+## Remediation
+Describe ways on how to fix the weakness. 
 
-### Repo Structure
+## References 
+Link to external references that contain useful additional information on the issue. 
+
+```
+
+## Contributing
+
+Before you create a PR for the first time make sure you have read:
+
+- the sections [Create a new DeFi entry](#create-a-new-defi-entry)
+
+### Scope of Weaknesses 
+
+DeFi-Sec should be concerned with attacks beyond source code, but rather effects of market, economic, trading, etc. 
+
+## Table of Contents
+
 
 | **Protocol / Interaction Based** | **Blockchain Transaction Based** | **Non-Blockchain Sources** | **Blockchain Sources** | **Contract Language**                                   |
 |----------------------------------|----------------------------------|----------------------------|------------------------|---------------------------------------------------------|
@@ -31,10 +53,10 @@ Should tags for "potential" attacks or attacks that have been successful be util
 | Liquidity Pocket                 | Token Inflation                  | Spoofing                   | Timelock               | DoS with Block Gas Limit                                |
 | Quote Stuffing                   | Circulating Supply Attack        | Credential Access          | Lateral Movements      | Arithmetic Over/Under Flows                             |
 | Wash Trading                     | Gas Griefing \(DoS\)             | Reentrancy                 | Multi\-Sig Keys        | Forcibly Sending Ether to a Contract                    |
-| Ramping The Market               | Network Congestion \(uDoS\)      | Privilege Escalation        | Miner Cartel           | Delegatecall                                            |
+| Ramping The Market               | Network Congestion \(uDoS\)      | Privilage Esclation        | Miner Cartel           | Delegatecall                                            |
 | Cornering The Market             |                                  | Credential Access          | Finality               | Entropy Illusion                                        |
 | Churning                         |                                  | Encryption Protections     |                        | Short Address/Parameter Attack                          |
-| Flash Loans                      |                                  | Phishing                   |                        | Uninitialized Storage Pointers                          |
+| Flash Loans                      |                                  | Phishing                   |                        | Uninitialised Storage Pointers                          |
 | Aggregated Transactions          |                                  | Unicode Exploits           |                        | Floating Points and Numerical Precision                 |
 | Bulge Bracket Transactions       |                                  | API                        |                        | Right\-To\-Left\-Override control character \(U\+202E\) |
 | Layering                         |                                  | DNS Attacks                |                        | Delegatecall to Untrusted Callee                        |
@@ -56,5 +78,10 @@ Should tags for "potential" attacks or attacks that have been successful be util
 | "Flash ""Straddle"" "            |                                  |                            |                        |                                                         |
 | Structuring                      |                                  |                            |                        |                                                         |
 
----
-MIT License - Any rights or Trademarks are property of their respective owners. We Make No Claims on them whatsoever.
+
+
+## Contact
+
+## License 
+
+
