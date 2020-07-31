@@ -2,32 +2,26 @@
 
 This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please use attack for "normal" InfoSec/Dev/Sys security check-listing, this is ment to be specialized towards the unique issues brought about in blockchain/cryptocurrency applications (i.e. protocols).
 
+## Sheet
+
+[DeFi Sec Matrix Sheet](https://docs.google.com/spreadsheets/d/1St4BXWpeZdcDaH5Z4nnODrerFAxfdZ4OuHofI-EbKGc/edit?usp=sharing)
+
+[DeFi Sec Page](https://docs.google.com/spreadsheets/d/e/2PACX-1vR5UnBx4M9sg43fO76eWetena1L-4zo82lqsJuMR3uuZPe7luRnakG8jZPG0YbnSDtUOY5nVgSdwpc1/pubhtml)
+
+- Updates to the Sheet can be found in in the 'legend' section
+
+## Token Mitigations 
+
+[uniswap schema](https://uniswap.org/tokenlist.schema.json)
+
 ## Telegram Channels for Discussion
 [DeFi](https://t.me/de_fi)<br>
-[DeFi Dev](https://t.me/dfdev)<br>
 [DeFi Score](https://t.me/defiscore)<br>
-[Flashfck](https://t.me/flashfck)<br>
-
-
 
 ##### Tags 
 Should tags for "potential" attacks or attacks that have been successful be utilized, and if so how implemented
 
 ### Repo Structure
-- csv 
-	.csv file containing the primary attack/potential attack planes
-- documents
-	.md files containing various proposed "best practices", for example [incident response plan](#) is an example of how teams should best communicate with their userbase and is based off of existing regulatory requirements
-- LICENSE 
-	MIT License
-- README.md 
-	The file you are reading right meow.
-- src
-	- entries
-		README - Index of Entries 
-		.md files containing specific entries from the table below
-
-
 
 | **Protocol / Interaction Based** | **Blockchain Transaction Based** | **Non-Blockchain Sources** | **Blockchain Sources** | **Contract Language**                                   |
 |----------------------------------|----------------------------------|----------------------------|------------------------|---------------------------------------------------------|
