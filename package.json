@@ -1,0 +1,43 @@
+{
+  "name": "defi-sec",
+  "version": "0.0.9",
+  "description": "defi security, threats, and mitigation ",
+  "main": "package/index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "command-exists": "^1.2.8",
+    "js-yaml": "^3.12.1",
+    "jsonlint": "^1.6.3",
+    "md-2-json": "^1.0.5",
+    "pajv": "^1.2.0",
+    "tar": "^4.4.8",
+    "textlint-rule-common-misspellings": "^1.0.1",
+    "web3-utils": "^1.0.0-beta.54"
+  },
+  "devDependencies": {
+    "textlint": "^11.7.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freight-chain/defi-sec.git"
+  },
+  "keywords": [
+    "defi",
+    "security",
+    "matrix",
+    "threats",
+    "mitigation"
+  ],
+  "author": "sam bacha <sam@freighttrust.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/freight-chain/defi-sec/issues"
+  },
+  "homepage": "https://github.com/freight-chain/defi-sec#readme"
+}
