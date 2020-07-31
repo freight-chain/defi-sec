@@ -1,30 +1,46 @@
 # DeFi Threat Matrix
 
-The DeFi Threat Registry (DeFiTR) is a fork of SWC-Registry and is an implementation of the weakness classification scheme proposed in [EIP-1470](https://github.com/ethereum/EIPs/issues/1469). It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration ([CWE](https://cwe.mitre.org)) while overlaying a wide range of weakness variants that are specific to smart contracts and [ATTACK](https://attack.mitre.org) which are 
+The DeFi Threat Registry (DeFiTR) is a fork of SWC-Registry and is an
+implementation of the weakness classification scheme proposed in
+[EIP-1470](https://github.com/ethereum/EIPs/issues/1469). It is loosely aligned
+to the terminologies and structure used in the Common Weakness Enumeration
+([CWE](https://cwe.mitre.org)) while overlaying a wide range of weakness
+variants that are specific to smart contracts and
+[ATTACK](https://attack.mitre.org) which are
 
 The goals of this project are as follows:
 
-- Provide a straightforward way to classify security issues in smart contract systems.
-- Define a common language for describing security issues in smart contract systems' architecture, design, or code.
-- Serve as a way to train and increase performance for smart contract security analysis tools.
+- Provide a straightforward way to classify security issues in smart contract
+  systems.
+- Define a common language for describing security issues in smart contract
+  systems' architecture, design, or code.
+- Serve as a way to train and increase performance for smart contract security
+  analysis tools.
 
 ## Create a new entry
 
-Create a file with a new DeFiTR ID in the [entries](./entries) directory. Use the [template](./entries/template.md) and describe all weakness attributes. These should be just numbered in the following format:
-`xyy.md` where as `x` is the category identifier and `yy` is the entry identifier. 
+Create a file with a new DeFiTR ID in the [entries](./entries) directory. Use
+the [template](./entries/template.md) and describe all weakness attributes.
+These should be just numbered in the following format: `xyy.md` where as `x` is
+the category identifier and `yy` is the entry identifier.
 
 ## Relationships
-Link a CWE Base or Class type to the CWS variant. 
-e.g.  [CWE-682: Incorrect Calculation](https://cwe.mitre.org/data/definitions/682.html)
 
-## Description 
-Describe the nature and potential impact of the weakness on the contract system. 
+Link a CWE Base or Class type to the CWS variant. e.g.
+[CWE-682: Incorrect Calculation](https://cwe.mitre.org/data/definitions/682.html)
+
+## Description
+
+Describe the nature and potential impact of the weakness on the contract system.
 
 ## Remediation
-Describe ways on how to fix the weakness. 
 
-## References 
-Link to external references that contain useful additional information on the issue. 
+Describe ways on how to fix the weakness.
+
+## References
+
+Link to external references that contain useful additional information on the
+issue.
 
 ```
 
@@ -34,9 +50,9 @@ Before you create a PR for the first time make sure you have read:
 
 - the sections [Create a new DeFi entry](#create-a-new-defi-entry)
 
-### Scope of Weaknesses 
+### Scope of Weaknesses
 
-DeFi-Sec should be concerned with attacks beyond source code, but rather effects of market, economic, trading, etc. 
+DeFi-Sec should be concerned with attacks beyond source code, but rather effects of market, economic, trading, etc.
 
 ## Table of Contents
 
@@ -78,6 +94,5 @@ DeFi-Sec should be concerned with attacks beyond source code, but rather effects
 
 ## Contact
 
-## License 
-
-
+## License
+```
