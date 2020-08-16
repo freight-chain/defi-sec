@@ -1,0 +1,1525 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "": {
+          "type": "string"
+        },
+        "__1": {
+          "type": "string"
+        },
+        "__2": {
+          "type": "string"
+        },
+        "__3": {
+          "type": "string"
+        },
+        "__4": {
+          "type": "string"
+        },
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "",
+        "__1",
+        "__2",
+        "__3",
+        "__4",
+        "See Sheet BF_Classifcation_NIST for more specific Solidity Patterns"
+      ]
+    }
+  ]
+}
