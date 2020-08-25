@@ -10,28 +10,30 @@ This work is inspired by [attack.mitre.org](https://attack.mitre.org). Please us
 
 - Updates to the Sheet can be found in in the 'legend' section
 
-## Token Mitigations 
+## Token Mitigations
 
 [uniswap schema](https://uniswap.org/tokenlist.schema.json)
 
 ## Telegram Channels for Discussion
+
 [DeFi](https://t.me/de_fi)<br>
 [DeFi Score](https://t.me/defiscore)<br>
 
-##### Tags 
+##### Tags
+
 Should tags for "potential" attacks or attacks that have been successful be utilized, and if so how implemented
 
 ### Repo Structure
 
 | **Protocol / Interaction Based** | **Blockchain Transaction Based** | **Non-Blockchain Sources** | **Blockchain Sources** | **Contract Language**                                   |
-|----------------------------------|----------------------------------|----------------------------|------------------------|---------------------------------------------------------|
+| -------------------------------- | -------------------------------- | -------------------------- | ---------------------- | ------------------------------------------------------- |
 | Market Attacks                   | Economic Attack                  | Off\-Chain                 | On\-Chain              | Solidity                                                |
 | Front\-Running                   | Front\-Running                   | Price Feed                 | Timestamp Dependence   | Integer Overflow and Underflow                          |
 | Coordinated Attack               | Insufficient gas griefing        | Quote Stuffing             | Admin Key              | DoS with \(Unexpected\) revert                          |
 | Liquidity Pocket                 | Token Inflation                  | Spoofing                   | Timelock               | DoS with Block Gas Limit                                |
 | Quote Stuffing                   | Circulating Supply Attack        | Credential Access          | Lateral Movements      | Arithmetic Over/Under Flows                             |
 | Wash Trading                     | Gas Griefing \(DoS\)             | Reentrancy                 | Multi\-Sig Keys        | Forcibly Sending Ether to a Contract                    |
-| Ramping The Market               | Network Congestion \(uDoS\)      | Privilege Escalation        | Miner Cartel           | Delegatecall                                            |
+| Ramping The Market               | Network Congestion \(uDoS\)      | Privilege Escalation       | Miner Cartel           | Delegatecall                                            |
 | Cornering The Market             |                                  | Credential Access          | Finality               | Entropy Illusion                                        |
 | Churning                         |                                  | Encryption Protections     |                        | Short Address/Parameter Attack                          |
 | Flash Loans                      |                                  | Phishing                   |                        | Uninitialized Storage Pointers                          |
@@ -57,4 +59,5 @@ Should tags for "potential" attacks or attacks that have been successful be util
 | Structuring                      |                                  |                            |                        |                                                         |
 
 ---
+
 MIT License - Any rights or Trademarks are property of their respective owners. We Make No Claims on them whatsoever.
